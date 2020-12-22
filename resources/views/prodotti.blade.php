@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-    </head>
-    <body>
-        <h1>Prodotti</h1>
-    </body>
-</html>
+@extends('layouts.app')
+
+@section('content')
+    <h1>Sezione prodotti</h1>
+@endsection
